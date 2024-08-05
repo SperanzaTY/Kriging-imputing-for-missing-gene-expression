@@ -3,7 +3,7 @@
 不改变文件夹内文件相对路径，直接运行notebook.ipynb即可。
 
 ## 相关依赖  
-'''
+``` python
 %pip install anndata
 %pip install --upgrade h5py
 %pip install numpy
@@ -16,7 +16,7 @@
 %pip install scikit-learn seaborn
 %pip install magic-impute
 %pip install scanpy
-'''
+```
 
 ## 验收说明  
 如果只是验收最终结果，请从大纲中找到"Kringing方法正确性验证"之后的内容，在确保上述依赖添加后运行可得到相关结果。  
