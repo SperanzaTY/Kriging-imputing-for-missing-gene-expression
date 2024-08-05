@@ -3,7 +3,7 @@
 不改变文件夹内文件相对路径，直接运行notebook.ipynb即可。
 
 ## 相关依赖  
-```python
+```
 %pip install anndata
 %pip install --upgrade h5py
 %pip install numpy
